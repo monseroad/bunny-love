@@ -1,0 +1,27 @@
+.bunny{
+	font-family: 'Baloo Paaji', cursive;
+	color: #fff;
+	margin-left: 30%;
+}
+
+.love{
+	font-family: font-family: 'Baloo Paaji', cursive;
+	color: 	#ff6f69;
+	margin: 1%;
+}
+.titulo{
+	background-color: #0892d0;
+	max-width: 100%;
+}
+nav{
+	margin-left: 50%;
+	margin-bottom: 1%;
+	margin-top: -3%;
+
+}
+.menu{
+	font-family: 'Prompt', sans-serif;
+	text-decoration: none;
+	color: 	#e7eff6;
+	margin: 2%;
+}
