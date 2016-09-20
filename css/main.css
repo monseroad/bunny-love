@@ -1,3 +1,8 @@
+/*MONSE*/
+.container{
+	margin: 0 auto;
+	width: 80%;
+}
 .bunny{
 	font-family: 'Baloo Paaji', cursive;
 	color: #fff;
@@ -5,7 +10,7 @@
 }
 
 .love{
-	font-family: font-family: 'Baloo Paaji', cursive;
+	font-family: 'Baloo Paaji', cursive;
 	color: 	#ff6f69;
 	margin: 1%;
 }
@@ -24,4 +29,64 @@ nav{
 	text-decoration: none;
 	color: 	#e7eff6;
 	margin: 2%;
+}
+.fondo{
+	background-image: url("../img/img-1.jpg");
+	background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 1%;
+    margin-left: 10%;
+}
+
+.opacidad{
+    background-color: rgba(0, 126, 255, 0.3);
+    width: 80%;
+    margin: 7%;
+    padding-top: 1%;
+    padding-bottom: 7%;
+}
+
+h1{
+	font-size: 600%;
+	text-align: center;
+	padding-top: 3%;
+	padding-left: 12%;
+}
+.centrar{
+	margin: 0 40%;
+	list-style: none;
+	display: inline-flex;
+	font-family: 'Prompt', sans-serif;
+	color: #e7eff6;
+	padding-left: 3%;
+}
+
+.guion{
+	margin-right: 15%;
+	margin-left: 15%;
+}
+
+img{
+	float: left;
+	width: 12%;
+	padding-left: -2%;
+    padding-right: -2%;
+}
+
+.multiconejos{
+	margin-left: 0.5%;
+}
+
+.borde{
+	border-top: 3px #ff6f69 solid;
+}
+
+h4{
+    font-family: 'Prompt', sans-serif;
+    color: #fff;
+    background-color: #0892d0;
+    margin-top: 0;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
 }
